@@ -6,6 +6,7 @@ Global Cost of Living Analysis with Power BI
 # Project Name: Global Cost of Living Analysis with Power BI
 
 Project Associated with : Mentorness
+
 Tools Used: Microsoft Power BI, SQL, Excel
 
 # Project Description:
